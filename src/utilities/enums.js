@@ -1,9 +1,9 @@
 export const stories = [
     {
-      name: "Jowel Castañeda",
-      src: "https://scontent.fcrk1-1.fna.fbcdn.net/v/t39.30808-6/295352366_7971981299508722_4758547558480454079_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEtNVeq2e-iliH4nHFMNHyVN89CO-0vBRc3z0I77S8FF5OQ745iREvAheGofrXPTz0iCjhmzUhElzJqqT8k5_FI&_nc_ohc=cPKHVl6d3AoAX-4N-ff&_nc_ht=scontent.fcrk1-1.fna&oh=00_AT9a4zal5sBPNtwm6TOxJs3-t9UGPklLdu1MnZ27XNLRzA&oe=631C9DFE",
+      name: "John Glay Bunao",
+      src: "https://scontent.fmnl17-3.fna.fbcdn.net/v/t39.30808-6/303727231_1620338005029062_3683734343237007960_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=gdXJh0w6lSoAX-B-r5D&_nc_ht=scontent.fmnl17-3.fna&oh=00_AT8lfG1MUiJxV54B7yjGy828y7GHIBAzIodwzVnGnnxU9g&oe=6323A0E8",
       profile:
-        "https://scontent.fcrk1-5.fna.fbcdn.net/v/t1.6435-9/67675857_3066481936725374_8495259219144998912_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=174925&_nc_eui2=AeGte4LzMjbCequajIkcmBAdMXUgY3zNr2AxdSBjfM2vYNYS18lHgbf77mpzba7gZvt1srFoAAXpusCUnLduZq2k&_nc_ohc=CJoBExXGM8QAX-tQqAh&_nc_oc=AQnBABnt3YYmZvVnFfBJoYa1Fj5-3fq4l2U6qTF-XEuRV272WcB9UpCuCtceh-u7Puc&_nc_ht=scontent.fcrk1-5.fna&oh=00_AT8_pJ4CPbKQ2YpSkXchcW1TYzHU-CS_He3Drb86Gu2eIg&oe=633F6189",
+      "https://scontent.fmnl17-3.fna.fbcdn.net/v/t39.30808-6/271709406_1461870397542491_1920538670295261720_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=7W2PnHxwyI4AX9rL0bU&_nc_ht=scontent.fmnl17-3.fna&oh=00_AT9fCmXd6AMtXTWV_SC5UbM8u_CPQ-AGb1qk-cU5SDJ8ww&oe=63231467",
     },
     {
       name: "Elon Musk",
